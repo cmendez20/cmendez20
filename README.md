@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chris Mendez
-- 👀 I’m interested in front-end web development & content creation
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in information technology & scripting 
+- 🌱 I’m currently learning PowerShell
 - 💞️ I’m open to colloboration
 - 📫 How to reach me: mendecj812@gmail.com | [cjmendez.com](http://cjmendez.com)
 
